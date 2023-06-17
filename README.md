@@ -7,7 +7,7 @@
 
 
 <h2 align="center"> created by; </Slime> 
-<p align="center"><a href="https://github.com/Raffy" target="_blank">ayhu</a></p><p align="center"><a href="https://github.com/Art0nus" target="_blank">artonus</a></p>
+<p align="center"><a href="https://github.com/Raffy" target="_blank">Raffy</a></p><p align="center"><a href="https://github.com/Raffy" target="_blank">Raffy</a></p>
 
 
 
